@@ -14,6 +14,8 @@ You can find the rest of my apps here: https://www.github.com/OmkarArora
 - [TypeScript for React - Why and How](https://omkar.hashnode.dev/typescript-for-react-why-and-how)
 - [Upload Images from React App to Cloudinary](https://omkar.hashnode.dev/upload-images-from-react-app-to-cloudinary)
 
+Find my blogs here: https://omkar.hashnode.dev
+
 ### Connect with me 📞
 - Twitter | [@OmkarArora](https://twitter.com/OmkarArora)
 - LinkedIn | [Omkar Arora](https://www.linkedin.com/in/omkar-arora-0ab08375)
