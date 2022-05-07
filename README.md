@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Omkar Arora, a fullstack web developer, focussed on writing clean code and building apps using the technologies in the React ecosystem.  
+I'm Omkar Arora and currently working as a Software Developer at [Sparklin](https://twitter.com/WeAreSparklin)
 
-🔨 Some of the technologies I'm currently working with are ReactJS, TypeScript, NodeJS, ExpressJS, MongooseJS, MongoDB, JavaScript(ES6), HTML5 and CSS3.
+🔨 Some of the technologies I'm currently working with are ReactJS, Angular, TypeScript, NodeJS, ExpressJS, MongooseJS, MongoDB, JavaScript(ES6), HTML5 and CSS3.
 
 ### Recent Projects ⚛
 - [G Keep](https://gkeep-notes.netlify.app) - A notes taking app built with ReactJS
