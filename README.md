@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm Omkar Arora, a Web dev, and love all things tech.
-Currently working as a Software Developer at [Sparklin](https://twitter.com/WeAreSparklin)
+I'm [Omkar Arora](https://www.omkararora.com/), a Web dev, and love all things tech.
+Currently working as a SDE 2 at [Sparklin](https://www.sparklin.com/)
 
 🔨 Some of the technologies I'm currently working with are ReactJS, Angular, TypeScript, NodeJS, ExpressJS, MongooseJS, MongoDB, JavaScript(ES6), HTML5 and CSS3.
 
